@@ -1,11 +1,13 @@
 # Hello 😁, I'm Vishal Pandit
-### I am  proficient Web Developer
+# 💫 About Me:
+🔭 I’m a MERN Stack Developer passionate about building modern, scalable web applications.<br>🎓 I completed my Bachelor of Engineering in Computer Engineering in 2024.<br>🌱 Currently learning Next.js to expand my skills in server-side rendering and full-stack development.<br>
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/vishal-pandit-588042221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+[![](https://visitcount.itsvg.in/api?id=MrPandit12345&icon=4&color=8)](https://visitcount.itsvg.in)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPandit12345&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## Skills
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
@@ -21,11 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
+## Contact Me
+<p><a href="https://www.linkedin.com/in/vishal-pandit-588042221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPandit12345&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPandit12345&theme=default" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/MrPandit12345/count.svg?" alt="visitors count" />
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
